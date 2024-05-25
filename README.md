@@ -1,4 +1,4 @@
-![Lakshmanan Meiyappan Banner Image](./banner.jpg)
+![Elizafoam Banner Image](./banner.jpg)
 <!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
@@ -14,7 +14,7 @@
 
 - 🌟 I am interested in **Software Engineering**
 
-- 🌱 I’m currently learning on **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - ⚡ Fun fact: **I am left-handed**
 
