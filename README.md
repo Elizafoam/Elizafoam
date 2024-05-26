@@ -1,4 +1,4 @@
-![Elizafoam Banner Image](./nyancat.gif)
+![Elizafoam Banner Image](./nyancowboy.gif)
 
 <h1>🌸 Hello there! I'm Liz </h1>
 
