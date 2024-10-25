@@ -15,7 +15,7 @@
 
 - 🌟 I am interested in **Software Engineering**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Internet Technology & Low Level Programming**
 
 - ⚡ Fun fact: **I am left-handed**
 
