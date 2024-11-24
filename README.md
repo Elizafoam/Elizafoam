@@ -1,4 +1,6 @@
 ![Elizafoam Banner Image](./nyancowboy.gif)
+
+<p align="center">~</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elizafoam&style=for-the-badge"/>
 </p>
