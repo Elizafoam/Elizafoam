@@ -10,7 +10,7 @@
 🔭 I am a student at Rutgers University-New Brunswick, majoring in Computer Science <br>
 🌟 I am interested in Software Engineering & Design <br>
 🌱 I’m currently mastering full-stack web development & system design <br>
-🌝 Fun fact: I am left-handed <br>
+🌝 Fun fact: My profile picture was made by my bestfriend Blue <br>
 
 # 🌸 Languages & Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
